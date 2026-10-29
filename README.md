@@ -1,45 +1,64 @@
 
-# Hi, I'm Satya Vinay! 👋
+# Satya Vinay
 
-### Aspiring Java Full Stack Developer | ECE Graduate
+### Aspiring Java Full Stack Developer | Electronics and Communication Engineering Graduate
 
-🎓 B.Tech in Electronics and Communication Engineering from VIT-AP University.
+I am an ECE graduate from VIT-AP University with a strong interest in software development, problem-solving, and building practical technology solutions. I enjoy learning new technologies and transforming ideas into functional applications through clean, user-focused development.
 
-💻 Passionate about developing practical web applications, solving problems, and exploring new technologies.
+My current focus is on strengthening my Java and web development skills while building projects that demonstrate my technical knowledge and ability to solve real-world problems.
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-- **Languages:** Java, Python, JavaScript, Basic C
-- **Frontend:** HTML, CSS, React
-- **Database:** MySQL, SQL
-- **Core Concepts:** OOP, Data Structures and Algorithms
-- **Tools:** Git, GitHub, VS Code
+- **Programming Languages:** Java, Python, C 
+- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Database Management:** MySQL, SQL
+- **Computer Science Fundamentals:** Object-Oriented Programming, Data Structures and Algorithms
+- **Development Tools:** Git, GitHub, Visual Studio Code
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- **LifeLens** — Smart Goal Planner and Performance Tracker
-- **Smart Campus Water Management System** — IoT-based water monitoring and visualization
-- **Weather Monitoring System** — Weather data analysis and prediction
-- **Divya Drishti** — Assistive technology concept for navigation and obstacle awareness
+### LifeLens — Smart Goal Planner and Performance Tracker
+A productivity web application designed to help users organize goals, manage tasks, track completion, and visualize performance trends.
 
-## 🏆 Achievements
+**Technologies:** HTML, CSS, JavaScript, Chart.js, LocalStorage
 
-- VIT-AP Star Student Scheme recipient
-- District-level chess player with a FIDE rating above 1500
-- Recognized in district-level Mathematics and Quiz competitions
+### Smart Campus Water Management System
+An IoT-based monitoring solution designed to measure campus water flow, transmit readings, and visualize usage patterns through a local dashboard.
 
-## 🌱 Currently Learning
+**Technologies:** ESP32, RS485/Modbus, MAX485, LoRa, Flask, Chart.js
 
-- JavaScript fundamentals and modern web development
-- Full Stack Development concepts
-- Building and deploying practical projects
+### Weather Monitoring System
+A weather-monitoring project focused on collecting and analyzing environmental data, with exploration of BiLSTM-based time-series modeling for weather prediction.
 
-## 🤝 Connect With Me
+**Technologies:** Python, BiLSTM, Time-Series Analysis
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/vinay-bondada-074572330?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+### Divya Drishti — Assistive Technology System
+An assistive technology concept designed to support visually impaired people through GPS-based location tracking and obstacle awareness.
+
+**Focus Areas:** Embedded Systems, GPS, Obstacle Detection
+
+## Achievements
+
+- **VIT-AP Star Student Scheme:** Received a university free seat through a scheme recognizing district-first Intermediate students from government junior colleges.
+- **Chess:** District-level chess player with a FIDE rating above 1500.
+- **Academic Competitions:** Recognized in district-level Mathematics and Quiz competitions.
+
+## Currently Learning
+
+- JavaScript fundamentals and modern frontend development
+- Full Stack Development and application architecture
+- Git, GitHub, and project deployment
+- Building practical, portfolio-ready applications
+
+## Professional Interests
+
+Java Development | Full Stack Engineering | Web Applications | Problem-Solving | Software Engineering
+
+## Connect With Me
+
 - **Email:** vinaybondada3@gmail.com
+- **LinkedIn:** [Visit my LinkedIn Profile](https://www.linkedin.com/in/vinay-bondada-074572330?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-⭐ Thanks for visiting my profile!
-# B.S.V.V.S.S.VINAY
+I believe in continuous learning, consistent improvement, and building technology that solves meaningful problems.
